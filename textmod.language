@@ -4,27 +4,35 @@
 		"LEMURIANBRUISER_BODY_NAME": "Ronny Renner",
 		"HERMIT_CRAB_BODY_NAME": "Mortar",
 		"NULLIFIER_BODY_NAME": "Void Runner",
-		"CLAYBOSS_BODY_NAME": "Tontopf",
     "BELL_BODY_NAME": "Glocke",
     "CLAYBRUISER_BODY_NAME": "Günnsen Gadlinggunner",
     "ROBOBALLMINI_BODY_NAME": "Smol Ocular",
+
+		"CLAYBOSS_BODY_NAME": "Tontopf",
+    "CLAYBOSS_BODY_SUBTITLE": "Der tonigste alle Köpfe",
 		"ROBOBALLBOSS_BODY_NAME": "Ocular",
 		"SUPERROBOBALLBOSS_BODY_NAME": "Ocular",
 		"GRANDPARENT_BODY_NAME": "Uranus",
     "GRANDPARENT_BODY_SUBTITLE": "RIP Dronen"
+
+    "FLAMEDRONE_BODY_NAME" : "Flammenwerfer Drone",
 	},
 	"de": {
     "BISON_BODY_NAME" : "Kuh",
 		"LEMURIANBRUISER_BODY_NAME": "Ronny Renner",
 		"HERMIT_CRAB_BODY_NAME": "Mortar",
 		"NULLIFIER_BODY_NAME": "Void Runner",
-		"CLAYBOSS_BODY_NAME": "Tontopf",
     "BELL_BODY_NAME": "Glocke",
     "CLAYBRUISER_BODY_NAME": "Günnsen Gadlinggunner",
     "ROBOBALLMINI_BODY_NAME": "Smol Ocular",
+
+		"CLAYBOSS_BODY_NAME": "Tontopf",
+    "CLAYBOSS_BODY_SUBTITLE": "Der tonigste alle Köpfe",
 		"ROBOBALLBOSS_BODY_NAME": "Ocular",
 		"SUPERROBOBALLBOSS_BODY_NAME": "Ocular",
 		"GRANDPARENT_BODY_NAME": "Uranus",
     "GRANDPARENT_BODY_SUBTITLE": "RIP Dronen"
+
+    "FLAMEDRONE_BODY_NAME" : "Flammenwerfer Drone",
 	}
 }
