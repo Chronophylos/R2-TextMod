@@ -1,7 +1,5 @@
 # text mod
 
-## description
-
 text mod
 
 ## changelog
