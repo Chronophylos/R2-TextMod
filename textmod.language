@@ -1,0 +1,28 @@
+{
+	"en": {
+    "BISON_BODY_NAME" : "Kuh",
+		"LEMURIANBRUISER_BODY_NAME": "Ronny Renner",
+		"HERMIT_CRAB_BODY_NAME": "Mortar",
+		"NULLIFIER_BODY_NAME": "Void Runner",
+		"CLAYBOSS_BODY_NAME": "Pflanzenpot",
+    "BELL_BODY_NAME": "Glocke",
+    "CLAYBRUISER_BODY_NAME": "Machinegunner",
+    "ROBOBALLMINI_BODY_NAME": "Smol Ocular",
+		"ROBOBALLBOSS_BODY_NAME": "Ocular",
+		"SUPERROBOBALLBOSS_BODY_NAME": "Ocular",
+		"GRANDPARENT_BODY_NAME": "Uranus"
+	},
+	"de": {
+    "BISON_BODY_NAME" : "Kuh",
+		"LEMURIANBRUISER_BODY_NAME": "Ronny Renner",
+		"HERMIT_CRAB_BODY_NAME": "Mortar",
+		"NULLIFIER_BODY_NAME": "Void Runner",
+		"CLAYBOSS_BODY_NAME": "Pflanzenpot",
+    "BELL_BODY_NAME": "Glocke",
+    "CLAYBRUISER_BODY_NAME": "Machinegunner",
+    "ROBOBALLMINI_BODY_NAME": "Smol Ocular",
+		"ROBOBALLBOSS_BODY_NAME": "Ocular",
+		"SUPERROBOBALLBOSS_BODY_NAME": "Ocular",
+		"GRANDPARENT_BODY_NAME": "Uranus"
+	}
+}

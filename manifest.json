@@ -4,7 +4,6 @@
   "website_url": "https://github.com/Chronophylos/T2-TextMod",
   "description": "its a text mod",
   "dependencies": [
-    "tristanmcpherson-R2API-4.0.11",
-    "bbepis-BepInExPack-5.4.1900"
+    "tristanmcpherson-R2API-4.0.11"
   ]
 }
