@@ -1,4 +1,5 @@
 pack:
-  zip textmod icon.png *.language manifest.json 
+  zip Chronophylos-TextMod icon.png *.language manifest.json 
+
 clean:
-  rm textmod.zip
+  rm Chronophylos-TextMod.zip
