@@ -1,6 +1,7 @@
 {
   "name": "TextMod",
   "version_number": "1.1.0",
+  "author": "Chronophylos",
   "website_url": "https://github.com/Chronophylos/T2-TextMod",
   "description": "its a text mod",
   "dependencies": [
